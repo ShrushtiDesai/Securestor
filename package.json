@@ -1,0 +1,13 @@
+{
+  "name": "hardhat-project",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "hardhat": "^2.14.0"
+  },
+  "dependencies": {
+    "@material-ui/core": "^4.12.4",
+    "boxicons": "^2.1.4",
+    "dotenv": "^16.4.5",
+    "styled-components": "^6.1.8"
+  }
+}
